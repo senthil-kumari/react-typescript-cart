@@ -1,3 +1,5 @@
+<img width="1345" height="638" alt="Screenshot 2025-10-21 205256" src="https://github.com/user-attachments/assets/7e40ce70-d4d9-4aeb-9abe-e944adade7bc" />
+
 # use vite to create project
 
 - create react vite . - choose react and typescript
@@ -33,8 +35,6 @@ components, pages, hooks, data, context, utilities
   - Import Navbar as NavbarBs, Nav, <Nav.Link to="/" as={NavLink}>Home<Nav.Link>
   - add colors, bg-white shadow-sm
   - Add Cart SVG towards the right, add sample count in red
-
-# make navbar sticky. stikcy="top"
 
 # Render sample store data
 
